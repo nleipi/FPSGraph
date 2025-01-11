@@ -17,6 +17,5 @@ build = {
   type = "builtin",
   modules = {
     FPSGraph = "FPSGraph.lua",
-    main = "main.lua"
   }
 }
